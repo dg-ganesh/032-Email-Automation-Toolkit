@@ -1,0 +1,6 @@
+name,email,group,active
+Ganesh,dg.ganesh@gmail.com,Management,TRUE
+Person One,person1@example.com,Management,TRUE
+Person Two,person2@example.com,Management,TRUE
+Person Three,person3@example.com,Finance,TRUE
+Inactive Example,inactive@example.com,Management,FALSE
